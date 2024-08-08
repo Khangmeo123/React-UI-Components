@@ -1,8 +1,8 @@
 {
   "homepage": "http://khangmeo123.github.io/React-Ui-Components",
   "name": "react-ui-components",
-  "version": "0.1.0",
-  "description": "React UI component for Eprocurement",
+  "version": "2.0.0",
+  "description": "React UI component for new design",
   "main": "dist/cjs/bundle.js",
   "module": "dist/esm/bundle.js",
   "types": "dist/index.d.ts",
